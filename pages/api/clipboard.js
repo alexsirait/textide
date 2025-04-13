@@ -1,7 +1,11 @@
 import { promises as fs } from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const CLIPBOARD_FILE = path.join(process.cwd(), 'data', 'clipboard.json');
+// Get the absolute path to the project directory
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const DATA_DIR = path.join(__dirname, '../../data');
+const CLIPBOARD_FILE = path.join(DATA_DIR, 'clipboard.json');
 const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
 
 // Helper function to generate short ID
@@ -17,28 +21,33 @@ function generateShortId() {
 // Helper function to read clipboard data
 async function readClipboardData() {
   try {
+    // Create data directory if it doesn't exist
+    await fs.mkdir(DATA_DIR, { recursive: true });
+    
+    // Create empty file if it doesn't exist
+    try {
+      await fs.access(CLIPBOARD_FILE);
+    } catch {
+      await fs.writeFile(CLIPBOARD_FILE, '[]');
+    }
+
     const data = await fs.readFile(CLIPBOARD_FILE, 'utf8');
     return JSON.parse(data);
   } catch (error) {
-    console.error('Error reading file:', error);
-    // If file doesn't exist, return empty array
-    if (error.code === 'ENOENT') {
-      return [];
-    }
-    throw error;
+    console.error('Error reading clipboard data:', error);
+    return [];
   }
 }
 
 // Helper function to write clipboard data
 async function writeClipboardData(data) {
   try {
-    // Ensure the data directory exists
-    const dir = path.dirname(CLIPBOARD_FILE);
-    await fs.mkdir(dir, { recursive: true });
+    // Create data directory if it doesn't exist
+    await fs.mkdir(DATA_DIR, { recursive: true });
     
     await fs.writeFile(CLIPBOARD_FILE, JSON.stringify(data, null, 2));
   } catch (error) {
-    console.error('Error writing file:', error);
+    console.error('Error writing clipboard data:', error);
     throw new Error('Failed to write data');
   }
 }
@@ -60,6 +69,8 @@ function getVisitorId(req) {
 }
 
 export default async function handler(req, res) {
+  const { method } = req;
+
   try {
     let clipboards = await readClipboardData();
     
@@ -68,7 +79,7 @@ export default async function handler(req, res) {
     
     const visitorId = getVisitorId(req);
 
-    switch (req.method) {
+    switch (method) {
       case 'GET': {
         // Add hasLiked field for each item
         const enrichedClipboards = clipboards.map(item => ({
@@ -186,10 +197,10 @@ export default async function handler(req, res) {
 
       default:
         res.setHeader('Allow', ['GET', 'POST', 'PUT', 'DELETE', 'PATCH']);
-        return res.status(405).end(`Method ${req.method} Not Allowed`);
+        return res.status(405).json({ error: `Method ${method} Not Allowed` });
     }
   } catch (error) {
-    console.error('Clipboard API error:', error);
+    console.error('Error:', error);
     return res.status(500).json({ error: 'Internal server error' });
   }
 }
