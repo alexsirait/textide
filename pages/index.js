@@ -77,6 +77,7 @@ const ClipboardItem = memo(({ item, isDarkMode, onOpen }) => {
     </motion.div>
   );
 });
+ClipboardItem.displayName = 'ClipboardItem';
 
 // Memoized HistoryList component
 const HistoryList = memo(({ items = [], onItemClick, isDarkMode }) => {
@@ -111,6 +112,7 @@ const HistoryList = memo(({ items = [], onItemClick, isDarkMode }) => {
     </div>
   );
 });
+HistoryList.displayName = 'HistoryList';
 
 // Main component
 export default function Home() {
@@ -245,7 +247,7 @@ export default function Home() {
         <h1 className="text-xl sm:text-2xl md:text-3xl font-bold">
           <Link href="/">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 transition-colors duration-300">
-              TextTide
+              textide
             </span>
           </Link>
         </h1>

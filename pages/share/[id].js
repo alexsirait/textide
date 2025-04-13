@@ -27,6 +27,7 @@ const TextContent = memo(({ text, isDarkMode, isEditing, onTextChange }) => (
     )}
   </div>
 ));
+TextContent.displayName = 'TextContent';
 
 export default function SharePage() {
   const router = useRouter();
