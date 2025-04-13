@@ -1,0 +1,465 @@
+[
+  {
+    "id": "CH2nxN",
+    "text": "asdds",
+    "createdAt": "2025-04-13T13:35:27.793Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "ZuT4qy",
+    "text": "asdsd",
+    "createdAt": "2025-04-13T13:35:07.904Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "5i81cp",
+    "text": "siapa",
+    "createdAt": "2025-04-13T13:34:13.024Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": true
+  },
+  {
+    "id": "0fJ6VP",
+    "text": "sasdsdsdsd",
+    "createdAt": "2025-04-13T13:31:24.066Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": true,
+    "updatedAt": "2025-04-13T13:31:35.132Z"
+  },
+  {
+    "id": "Jd9vnt",
+    "text": "asdff",
+    "createdAt": "2025-04-13T13:30:38.613Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ],
+    "likesCount": 1,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "JUn6Vl",
+    "text": "asdasd",
+    "createdAt": "2025-04-13T13:30:28.012Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": true
+  },
+  {
+    "id": "7N10Yv",
+    "text": "asdasd",
+    "createdAt": "2025-04-13T13:27:22.450Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ],
+    "likesCount": 1,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": true
+  },
+  {
+    "id": "6NZS65",
+    "text": "asdasdas",
+    "createdAt": "2025-04-13T13:26:37.215Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "yFLGQ6",
+    "text": "sdsd",
+    "createdAt": "2025-04-13T13:26:32.576Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": true
+  },
+  {
+    "id": "2ki0bN",
+    "text": "alexxx",
+    "createdAt": "2025-04-13T13:24:37.750Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "JSaE3Z",
+    "text": "asdasd",
+    "createdAt": "2025-04-13T13:24:31.469Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "Iy5Gkc",
+    "text": "adsasd",
+    "createdAt": "2025-04-13T13:24:22.367Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "gUg3M8",
+    "text": "asdasd",
+    "createdAt": "2025-04-13T13:24:09.873Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "mXeueV",
+    "text": "qwqwq",
+    "createdAt": "2025-04-13T13:23:50.955Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "alXpRc",
+    "text": "asdasd",
+    "createdAt": "2025-04-13T13:21:28.455Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "FHrEuf",
+    "text": "siapa",
+    "createdAt": "2025-04-13T13:21:20.760Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "pkN0d3",
+    "text": "Runtime Error\n\n\nError: Failed to save\n\npages\\index.js (161:31) @ handleSubmit\n\n\n  159 |       });\n  160 |\n> 161 |       if (!response.ok) throw new Error('Failed to save');\n      |                               ^\n  162 |\n  163 |       const data = await response.json();\n  164 |       setText('');\nCall Stack\n1\n\nhandleSubmit\npages\\index.js (161:31)\n1",
+    "createdAt": "2025-04-13T13:20:02.874Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "FCfpHN",
+    "text": "sasdasd",
+    "createdAt": "2025-04-13T13:19:56.487Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "oebYmI",
+    "text": "asd",
+    "createdAt": "2025-04-13T13:19:53.138Z",
+    "likes": [],
+    "likesCount": 0,
+    "creatorId": "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg==",
+    "editable": false
+  },
+  {
+    "id": "xsx3c4",
+    "text": "alexx sirait",
+    "editable": true,
+    "createdAt": "2025-04-13T13:14:51.681Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "mw5dka",
+    "text": "asdasd",
+    "editable": true,
+    "createdAt": "2025-04-13T13:14:37.541Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "xyolb0",
+    "text": "asdsadasd",
+    "editable": false,
+    "createdAt": "2025-04-13T13:00:52.080Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "3ejz4",
+    "text": "asdasdasd",
+    "editable": true,
+    "createdAt": "2025-04-13T12:56:15.688Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "w2x50",
+    "text": "asdasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:56:11.133Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "l9j9x",
+    "text": "asdasdsad",
+    "editable": false,
+    "createdAt": "2025-04-13T12:56:00.178Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "9rpa9",
+    "text": "dfsghtrt",
+    "editable": false,
+    "createdAt": "2025-04-13T12:54:00.129Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "rmrox",
+    "text": "asdsadasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:53:01.620Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "s6nwmn",
+    "text": "asdasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:50:38.063Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "wozcme",
+    "text": "alexxxx sirrr",
+    "editable": false,
+    "createdAt": "2025-04-13T12:49:57.251Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "27bdda67-716c-4f07-8518-5c894f30b29b",
+    "text": "asdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:47:21.605Z",
+    "likesCount": 0,
+    "likes": []
+  },
+  {
+    "id": "be89f282-417e-465a-89cc-ae070a89708f",
+    "text": "asdasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:31:37.766Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ],
+    "likesCount": 1
+  },
+  {
+    "id": "aadbeb69-0725-4044-917f-fe59abc96f99",
+    "text": "alexxxxxxxxxxxx",
+    "editable": true,
+    "createdAt": "2025-04-13T12:31:19.528Z",
+    "likes": []
+  },
+  {
+    "id": "e1cef24f-5cfa-439d-ab3f-fa518edf2eb6",
+    "text": "asdasd",
+    "editable": true,
+    "createdAt": "2025-04-13T12:31:13.401Z",
+    "likes": []
+  },
+  {
+    "id": "0923a32e-5bf9-4dff-ac11-1b334541c6c2",
+    "text": "asdasd",
+    "editable": true,
+    "createdAt": "2025-04-13T12:30:03.673Z",
+    "likes": []
+  },
+  {
+    "id": "d626e936-7191-41f7-be02-e7add0112452",
+    "text": "import { useRouter } from 'next/router';\nimport { useState, useEffect } from 'react';\nimport { motion } from 'framer-motion';\nimport { FiCopy, FiSun, FiMoon, FiSave, FiEdit, FiHeart } from 'react-icons/fi';\nimport toast, { Toaster } from 'react-hot-toast';\n\nexport default function Share() {\n  const router = useRouter();\n  const { id } = router.query;\n  const [text, setText] = useState('');\n  const [originalText, setOriginalText] = useState('');\n  const [isEditing, setIsEditing] = useState(false);\n  const [isEditable, setIsEditable] = useState(false);\n  const [isLoading, setIsLoading] = useState(false);\n  const [likesCount, setLikesCount] = useState(0);\n  const [hasLiked, setHasLiked] = useState(false);\n  const [isDarkMode, setIsDarkMode] = useState(() => {\n    if (typeof window !== 'undefined') {\n      return localStorage.getItem('theme') === 'dark' || true;\n    }\n    return true;\n  });\n\n  // Persist theme\n  useEffect(() => {\n    localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');\n    document.documentElement.classList.toggle('dark', isDarkMode);\n  }, [isDarkMode]);\n\n  useEffect(() => {\n    if (id) {\n      fetch('/api/clipboard')\n        .then((res) => res.json())\n        .then((data) => {\n          const item = data.find((item) => item.id === id);\n          if (item) {\n            setText(item.text);\n            setOriginalText(item.text);\n            setIsEditable(!!item.editable);\n            setLikesCount(item.likesCount || 0);\n            setHasLiked(item.hasLiked || false);\n          } else {\n            setText('Text not found');\n            setIsEditable(false);\n          }\n        })\n        .catch(() => {\n          setText('Error loading text');\n          setIsEditable(false);\n          toast.error('Failed to load shared text');\n        });\n    }\n  }, [id]);\n\n  const handleCopy = () => {\n    navigator.clipboard.writeText(text);\n    toast.success('Copied to clipboard!', { icon: '📋' });\n  };\n\n  const toggleTheme = () => {\n    setIsDarkMode((prev) => !prev);\n  };\n\n  const handleEdit = () => {\n    if (!isEditable) {\n      toast.error('This text cannot be edited');\n      return;\n    }\n    setIsEditing(true);\n  };\n\n  const handleSave = async () => {\n    if (!isEditable) {\n      toast.error('This text cannot be edited');\n      return;\n    }\n\n    if (!text.trim()) {\n      toast.error('Text cannot be empty');\n      return;\n    }\n\n    try {\n      setIsLoading(true);\n      const res = await fetch('/api/clipboard', {\n        method: 'PUT',\n        headers: { 'Content-Type': 'application/json' },\n        body: JSON.stringify({ id, text }),\n      });\n\n      if (!res.ok) {\n        const error = await res.json();\n        throw new Error(error.error || 'Failed to save');\n      }\n\n      const savedItem = await res.json();\n      setText(savedItem.text);\n      setOriginalText(savedItem.text);\n      setIsEditing(false);\n      toast.success('Changes saved!', { icon: '✅' });\n    } catch (error) {\n      toast.error(error.message);\n      if (error.message === 'This item cannot be edited') {\n        setIsEditable(false);\n      }\n    } finally {\n      setIsLoading(false);\n    }\n  };\n\n  const handleCancel = () => {\n    setText(originalText);\n    setIsEditing(false);\n  };\n\n  const handleLike = async () => {\n    try {\n      const res = await fetch('/api/clipboard', {\n        method: 'PATCH',\n        headers: { 'Content-Type': 'application/json' },\n        body: JSON.stringify({ id, action: 'like' }),\n      });\n\n      if (!res.ok) throw new Error('Failed to update like');\n\n      const data = await res.json();\n      setLikesCount(data.likesCount);\n      setHasLiked(data.hasLiked);\n      \n      toast.success(data.hasLiked ? 'Added to favorites! 💖' : 'Removed from favorites');\n    } catch (error) {\n      toast.error('Failed to update like');\n    }\n  };\n\n  return (\n    <div\n      className={`min-h-screen ${\n        isDarkMode ? 'bg-gray-900 text-white' : 'bg-gray-100 text-gray-900'\n      } transition-colors duration-500`}\n    >\n      <Toaster position=\"top-right\" />\n      \n      {/* Header */}\n      <motion.header\n        initial={{ opacity: 0, y: -50 }}\n        animate={{ opacity: 1, y: 0 }}\n        transition={{ duration: 0.5 }}\n        className=\"sticky top-0 z-50 w-full px-4 py-3 backdrop-blur-lg bg-opacity-90 border-b flex items-center justify-between\"\n      >\n        <h1 className=\"text-xl sm:text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500\">\n          Clipboard Pro\n        </h1>\n        <motion.button\n          whileHover={{ rotate: 180 }}\n          onClick={toggleTheme}\n          className={`p-2 rounded-full ${\n            isDarkMode ? 'bg-gray-700' : 'bg-gray-200'\n          } hover:bg-opacity-80`}\n          aria-label=\"Toggle theme\"\n        >\n          {isDarkMode ? <FiSun size={20} /> : <FiMoon size={20} />}\n        </motion.button>\n      </motion.header>\n\n      {/* Main Content */}\n      <main className=\"p-4 lg:p-6 max-w-3xl mx-auto w-full\">\n        <motion.div\n          initial={{ opacity: 0, scale: 0.95 }}\n          animate={{ opacity: 1, scale: 1 }}\n          transition={{ duration: 0.5 }}\n          className={`w-full rounded-xl overflow-hidden ${\n            isDarkMode\n              ? 'bg-gray-800/80 backdrop-blur-md shadow-lg'\n              : 'bg-white/90 backdrop-blur-md shadow-md'\n          }`}\n        >\n          <div className=\"p-6\">\n            <div className=\"flex justify-between items-center mb-4\">\n              <div className=\"flex items-center gap-4\">\n                <h2 className=\"text-xl font-semibold\">Shared Clipboard</h2>\n                <motion.button\n                  whileHover={{ scale: 1.1 }}\n                  whileTap={{ scale: 0.9 }}\n                  onClick={handleLike}\n                  className={`p-2 rounded-full flex items-center gap-1 ${\n                    hasLiked\n                      ? 'bg-pink-500 text-white'\n                      : isDarkMode\n                      ? 'bg-gray-700 hover:bg-gray-600'\n                      : 'bg-gray-200 hover:bg-gray-300'\n                  }`}\n                >\n                  <FiHeart\n                    size={20}\n                    className={hasLiked ? 'fill-current' : ''}\n                  />\n                  <span className=\"text-sm font-medium\">{likesCount}</span>\n                </motion.button>\n              </div>\n              <div className=\"flex items-center gap-2\">\n                {!isEditing && (\n                  <motion.button\n                    whileHover={{ scale: 1.02 }}\n                    whileTap={{ scale: 0.98 }}\n                    onClick={handleCopy}\n                    disabled={text === 'Text not found' || text === 'Error loading text'}\n                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-all flex items-center gap-2 ${\n                      isDarkMode\n                        ? 'bg-gray-700 hover:bg-gray-600'\n                        : 'bg-gray-200 hover:bg-gray-300'\n                    } disabled:opacity-50 disabled:cursor-not-allowed`}\n                  >\n                    <FiCopy size={16} />\n                    <span>Copy</span>\n                  </motion.button>\n                )}\n                {isEditable && !isEditing && (\n                  <motion.button\n                    whileHover={{ scale: 1.05 }}\n                    whileTap={{ scale: 0.95 }}\n                    onClick={handleEdit}\n                    className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium ${\n                      isDarkMode \n                        ? 'bg-blue-600 hover:bg-blue-500 text-white' \n                        : 'bg-blue-500 hover:bg-blue-400 text-white'\n                    }`}\n                  >\n                    <FiEdit size={16} />\n                    <span>Edit</span>\n                  </motion.button>\n                )}\n              </div>\n            </div>\n            <div className={`relative group ${isEditing ? 'mb-4' : ''}`}>\n              {isEditing ? (\n                <div className=\"relative\">\n                  <textarea\n                    value={text}\n                    onChange={(e) => setText(e.target.value)}\n                    className={`w-full p-4 rounded-lg font-mono text-sm min-h-[300px] resize-y ${\n                      isDarkMode \n                        ? 'bg-gray-700/50 focus:bg-gray-700/70' \n                        : 'bg-gray-50 focus:bg-gray-100'\n                    } focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors`}\n                    placeholder=\"Enter text...\"\n                    style={{\n                      boxShadow: isDarkMode \n                        ? '0 0 0 1px rgba(59, 130, 246, 0.1)' \n                        : '0 0 0 1px rgba(59, 130, 246, 0.05)'\n                    }}\n                  />\n                  <div className=\"absolute bottom-4 right-4 flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity\">\n                    <span className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>\n                      Press Esc to cancel\n                    </span>\n                    <span className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>\n                      •\n                    </span>\n                    <span className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>\n                      Ctrl + Enter to save\n                    </span>\n                  </div>\n                </div>\n              ) : (\n                <pre\n                  className={`p-4 rounded-lg font-mono text-sm break-all whitespace-pre-wrap relative group ${\n                    isDarkMode ? 'bg-gray-700/50' : 'bg-gray-50'\n                  } transition-colors min-h-[300px]`}\n                  style={{\n                    boxShadow: isDarkMode \n                      ? '0 0 0 1px rgba(59, 130, 246, 0.1)' \n                      : '0 0 0 1px rgba(59, 130, 246, 0.05)'\n                  }}\n                >\n                  {text}\n                </pre>\n              )}\n            </div>\n            {isEditing && (\n              <div className=\"flex flex-wrap gap-2\">\n                <motion.button\n                  whileHover={{ scale: 1.02 }}\n                  whileTap={{ scale: 0.98 }}\n                  onClick={handleCancel}\n                  className={`px-4 py-2 rounded-lg text-sm font-medium ${\n                    isDarkMode\n                      ? 'bg-gray-700 hover:bg-gray-600'\n                      : 'bg-gray-200 hover:bg-gray-300'\n                  }`}\n                >\n                  Cancel\n                </motion.button>\n                <motion.button\n                  whileHover={{ scale: 1.02 }}\n                  whileTap={{ scale: 0.98 }}\n                  onClick={handleSave}\n                  disabled={isLoading}\n                  className={`px-6 py-2 rounded-lg text-sm font-medium transition-all flex items-center justify-center gap-2 ${\n                    isDarkMode\n                      ? 'bg-blue-600 hover:bg-blue-500 text-white'\n                      : 'bg-blue-500 hover:bg-blue-400 text-white'\n                  } ${isLoading ? 'opacity-50 cursor-not-allowed' : ''}`}\n                >\n                  {isLoading ? (\n                    <div className=\"w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin\" />\n                  ) : (\n                    <FiSave size={16} />\n                  )}\n                  Save Changes\n                </motion.button>\n              </div>\n            )}\n          </div>\n        </motion.div>\n      </main>\n    </div>\n  );\n}",
+    "editable": true,
+    "createdAt": "2025-04-13T12:28:40.696Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ],
+    "updatedAt": "2025-04-13T12:30:43.799Z",
+    "likesCount": 1
+  },
+  {
+    "id": "a8c961a0-213f-4bb2-a478-90f1a7c3a4ca",
+    "text": "alex sirait",
+    "editable": true,
+    "createdAt": "2025-04-13T12:28:34.792Z",
+    "likes": []
+  },
+  {
+    "id": "e03930e4-18be-4efa-bfba-12b2ca56e672",
+    "text": "asdasd",
+    "editable": true,
+    "createdAt": "2025-04-13T12:28:25.619Z",
+    "likes": []
+  },
+  {
+    "id": "ff4ebcde-11cb-4307-b65f-2f21c982f773",
+    "text": "asdasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:25:47.401Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ],
+    "likesCount": 1
+  },
+  {
+    "id": "93feabe8-096a-4312-906f-eaaa9348a9b1",
+    "text": "asdasdasasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:23:05.360Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ],
+    "likesCount": 1
+  },
+  {
+    "id": "b03c5ef4-fdcb-4c1c-9667-b4756235094b",
+    "text": "alex sirait",
+    "editable": false,
+    "createdAt": "2025-04-13T12:18:36.862Z",
+    "likes": []
+  },
+  {
+    "id": "332fdd98-86a6-4e56-81d8-55afbadc606e",
+    "text": "asdasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:18:32.112Z",
+    "likes": []
+  },
+  {
+    "id": "92af1ed7-c50d-4c8a-9ab5-39ad84ac7f8c",
+    "text": "asdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:18:29.801Z",
+    "likes": []
+  },
+  {
+    "id": "1b42db59-6b45-4a4e-9433-584eec2e63e4",
+    "text": "asdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:17:30.611Z",
+    "likes": []
+  },
+  {
+    "id": "6c726820-3e7b-455b-91d5-49164e36b16a",
+    "text": "adssd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:12:00.684Z",
+    "likes": []
+  },
+  {
+    "id": "302601f8-a6b5-4fb0-9b44-a7819d1a830e",
+    "text": "asd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:04:43.111Z",
+    "likes": [
+      "OjoxLU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzUuMC4wLjAgU2FmYXJpLzUzNy4zNg=="
+    ]
+  },
+  {
+    "id": "5fe13692-88c0-4f8d-998a-a564173f30ad",
+    "text": "asdasdasdasdasdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:03:55.509Z"
+  },
+  {
+    "id": "aa41599b-7b06-4dbe-9038-8506d352406a",
+    "text": "asdsd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:03:38.926Z"
+  },
+  {
+    "id": "28a8c591-4a51-4444-84bf-70b10293670e",
+    "text": "asdasd",
+    "editable": false,
+    "createdAt": "2025-04-13T12:02:24.175Z"
+  },
+  {
+    "id": "c2e67f99-b5c2-42dc-9db9-2d2b6a6ffb75",
+    "text": "siapa nama kamu",
+    "editable": false,
+    "createdAt": "2025-04-13T12:02:19.446Z"
+  },
+  {
+    "id": "36044e2a-9a6e-4f58-9d79-c489333942dd",
+    "text": "siapa nama kamu\n",
+    "editable": false,
+    "createdAt": "2025-04-13T12:02:02.511Z"
+  },
+  {
+    "id": "23285a3b-bd92-4f2e-a92b-a4d5ce9c4191",
+    "text": "Troubleshooting\n\n\nPrism.js: Verify prismjs is installed (npm list prismjs).",
+    "editable": false,
+    "createdAt": "2025-04-13T12:01:41.161Z"
+  },
+  {
+    "id": "03597e37-bac0-4f56-ba95-4ec618d26939",
+    "text": "dapatkan uang dengan mudah\n\n\ndengan cara ini",
+    "editable": false,
+    "createdAt": "2025-04-13T12:01:06.414Z"
+  },
+  {
+    "id": "2f7759e9-e8bd-455f-a4c6-2da0e58ea827",
+    "text": "adsasds",
+    "editable": true,
+    "createdAt": "2025-04-13T11:54:09.321Z"
+  },
+  {
+    "id": "8eaef322-a63d-41a7-a29c-6601e7e8915e",
+    "text": "asdasdadadsasd",
+    "editable": false,
+    "createdAt": "2025-04-13T11:54:06.186Z"
+  },
+  {
+    "id": "08dd96f3-62a8-4427-98a9-7411170dfcba",
+    "text": "sd",
+    "editable": false,
+    "createdAt": "2025-04-13T11:53:57.765Z"
+  },
+  {
+    "id": "17512818-7150-4b8e-bfbc-c13e0cf09985",
+    "text": "    <FiShare2 size={14} />\n            <span>Share</span>\n          </motion.button>\n          <motion.button\n            whileHover={{ scale: 1.05 }}\n            whileTap={{ scale: 0.95 }}\n            onClick={() => handleDelete(item.id)}\n            className={`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs ${\n              isDarkMode ? 'bg-gray-600 hover:bg-gray-500' : 'bg-gray-200 hover:bg-gray-300'\n            }`}\n          >\n            <FiTrash2 size={14} />\n            <span>Delete</span>\n          </motion.button>\n        </div>",
+    "editable": false,
+    "createdAt": "2025-04-13T11:51:17.784Z"
+  },
+  {
+    "id": "793e622a-8ba0-465f-b109-903c94a42294",
+    "text": "asd",
+    "editable": false,
+    "createdAt": "2025-04-13T11:50:32.663Z"
+  },
+  {
+    "id": "10b15c12-0513-49eb-94c2-64ed0e70dabd",
+    "text": "halo1asd",
+    "editable": true,
+    "createdAt": "2025-04-13T11:50:09.203Z",
+    "updatedAt": "2025-04-13T11:50:28.849Z"
+  }
+]
