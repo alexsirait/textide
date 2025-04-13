@@ -6,7 +6,7 @@ import toast, { Toaster } from 'react-hot-toast';
 import Link from 'next/link';
 
 // Memoized TextContent component
-const TextContent = memo(({ text, isDarkMode, isEditing, onTextChange }) => (
+const _TextContent = ({ text, isDarkMode, isEditing, onTextChange }) => (
   <div className="w-full">
     {isEditing ? (
       <textarea
@@ -26,7 +26,9 @@ const TextContent = memo(({ text, isDarkMode, isEditing, onTextChange }) => (
       </div>
     )}
   </div>
-));
+);
+
+const TextContent = memo(_TextContent);
 TextContent.displayName = 'TextContent';
 
 export default function SharePage() {

@@ -5,7 +5,7 @@ import toast, { Toaster } from 'react-hot-toast';
 import Link from 'next/link';
 
 // Memoized ClipboardItem component
-const ClipboardItem = memo(({ item, isDarkMode, onOpen }) => {
+const _ClipboardItem = ({ item, isDarkMode, onOpen }) => {
   const [isLiking, setIsLiking] = useState(false);
 
   // Function to truncate text
@@ -76,11 +76,13 @@ const ClipboardItem = memo(({ item, isDarkMode, onOpen }) => {
       </div>
     </motion.div>
   );
-});
+};
+
+const ClipboardItem = memo(_ClipboardItem);
 ClipboardItem.displayName = 'ClipboardItem';
 
 // Memoized HistoryList component
-const HistoryList = memo(({ items = [], onItemClick, isDarkMode }) => {
+const _HistoryList = ({ items = [], onItemClick, isDarkMode }) => {
   // Get top 3 most liked items
   const topItems = items
     .sort((a, b) => (b.likesCount || 0) - (a.likesCount || 0))
@@ -111,7 +113,9 @@ const HistoryList = memo(({ items = [], onItemClick, isDarkMode }) => {
       </div>
     </div>
   );
-});
+};
+
+const HistoryList = memo(_HistoryList);
 HistoryList.displayName = 'HistoryList';
 
 // Main component
